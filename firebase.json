@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "boms237",
+    "site": "boms237-bkt4p",
     "public": "dist",
     "ignore": [
       "firebase.json",
